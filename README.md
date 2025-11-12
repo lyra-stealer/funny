@@ -39,4 +39,9 @@ This stage is obfuscated using obfuscator.io, all that I can say is that https:/
 The C2 is api.lyra-connect.us. Hopefully this article will be able to get AV companies to act, currently only enterprise providers and one consumer provider (Kaspersky) detect the C2, and Kaspersky is the only one to detect the malicious file.
 
 If you need any copyright permissions from the malware author, you can contact them with their contacts, shown below. Brazilian Police, take note of this!
+
 <img width="670" height="481" alt="image" src="https://github.com/user-attachments/assets/ff4dd0ff-bfb4-40be-b74f-c6765b4215f3" />
+
+
+# DMCA
+In case the malware devs DMCA me, this repository is available at: 
