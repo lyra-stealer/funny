@@ -1,7 +1,8 @@
 # IMPORTANT LEGAL NOTICE
 All malicious code analyzed in this repository is being done so under Fair Use. If you live in other countries, please be aware of the laws about infringing on the copyright of malware developers.
 
-GETTING A SAMPLE: https://shaderblox.xyz/ is where you can get the latest malware sample! It is proudly hosted by GitHub. Archive is at https://github.com/lyra-stealer/Lyra-dropping-website. You can explore more malware dropping sites by the same people at https://github.com/valohex?tab=repositories . Currently, their file host (Storj) has removed the file by my request, so it might not be up now :)
+GETTING A SAMPLE: https://shaderblox.xyz/ is where you can get the latest malware sample! It is proudly hosted by GitHub. Archive is at https://github.com/lyra-stealer/Lyra-dropping-website. You can explore more malware dropping sites by the same people at https://github.com/valohex?tab=repositories . The people spreading the malware are Turkish, as shown by tracking their Discord activity and <img width="339" height="144" alt="image" src="https://github.com/user-attachments/assets/d0576254-8dbf-4d91-8562-9f95ce45612d" />
+Currently, their file host (Storj) has removed the file by my request, so it might not be up now :)
 # Step 1.
 The malware is packed using a custom version of InnoSetup. Currently, it can only be unpacked by ONE PROGRAM:
 
