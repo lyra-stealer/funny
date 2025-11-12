@@ -24,7 +24,8 @@ const decipher = crypto.createDecipheriv('aes-256-cbc', key, iv);
 let decrypted = decipher.update(encrypted, 'base64', 'utf8');
 decrypted += decipher.final('utf8');
 
-console.log(decrypted);```
+console.log(decrypted);
+```
 That will output the next stage
 # Step 5.
 This stage is obfuscated using obfuscator.io, all that I can say is that https://obf-io.deobfuscate.io/ is a completely unrelated but useful site
