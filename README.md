@@ -1,5 +1,6 @@
 # IMPORTANT LEGAL NOTICE
 All malicious code analyzed in this repository is being done so under Fair Use. If you live in other countries, please be aware of the laws about infringing on the copyright of malware developers.
+
 GETTING A SAMPLE: https://shaderblox.xyz/ is where you can get the latest malware sample! Currently, their file host (Storj) has removed the file by my request, so it might not be up now :)
 # Step 1.
 The malware is packed using a custom version of InnoSetup. Currently, it can only be unpacked by ONE PROGRAM:
