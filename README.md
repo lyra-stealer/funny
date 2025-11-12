@@ -1,7 +1,7 @@
 # IMPORTANT LEGAL NOTICE
 All malicious code analyzed in this repository is being done so under Fair Use. If you live in other countries, please be aware of the laws about infringing on the copyright of malware developers.
 
-GETTING A SAMPLE: https://shaderblox.xyz/ is where you can get the latest malware sample! Currently, their file host (Storj) has removed the file by my request, so it might not be up now :)
+GETTING A SAMPLE: https://shaderblox.xyz/ is where you can get the latest malware sample! It is proudly hosted by GitHub. Archive is at https://github.com/lyra-stealer/Lyra-dropping-website. You can explore more malware dropping sites by the same people at https://github.com/valohex?tab=repositories . Currently, their file host (Storj) has removed the file by my request, so it might not be up now :)
 # Step 1.
 The malware is packed using a custom version of InnoSetup. Currently, it can only be unpacked by ONE PROGRAM:
 
@@ -44,6 +44,6 @@ If you need any copyright permissions from the malware author, you can contact t
 
 
 # DMCA
-In case the malware devs DMCA me, this repository is available at: https://megaup.net/88af09653f12f6d58416482d45dd7bec/README.md
+In case the malware devs DMCA me, this repository is available at: https://megaup.net/88af09653f12f6d58416482d45dd7bec/README.md (OLD VERSION OF THIS README, WILL UPDATE LATER)
 
 All DMCA takedown requests will be countered as this is clear fair use.
