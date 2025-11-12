@@ -49,6 +49,6 @@ If you need any copyright permissions from the malware author, you can contact t
 
 
 # DMCA
-In case the malware devs DMCA me, this repository is available at: https://megaup.net/88af09653f12f6d58416482d45dd7bec/README.md (OLD VERSION OF THIS README, WILL UPDATE LATER)
+In case the malware devs DMCA me, this repository is available at: https://megaup.net/9260db6e3cadd97af3e902b9ebfd1a0f/README.md and https://files.catbox.moe/ytlmmx.md
 
 All DMCA takedown requests will be countered as this is clear fair use.
