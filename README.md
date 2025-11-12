@@ -1,3 +1,5 @@
+# WANT FREE MONEY?
+I will soon have a bounty for whoever can complete certain tasks, like banning the C2 server domain, getting it detected by more avs, and making a script to send them fake victims
 # IMPORTANT LEGAL NOTICE
 All malicious code analyzed in this repository is being done so under Fair Use. If you live in other countries, please be aware of the laws about infringing on the copyright of malware developers.
 
