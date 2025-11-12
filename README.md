@@ -4,8 +4,13 @@ All malicious code analyzed in this repository is being done so under Fair Use. 
 GETTING A SAMPLE: https://shaderblox.xyz/ is where you can get the latest malware sample! Currently, their file host (Storj) has removed the file by my request, so it might not be up now :)
 # Step 1.
 The malware is packed using a custom version of InnoSetup. Currently, it can only be unpacked by ONE PROGRAM:
+
 This is the program: https://github.com/jrathlev/InnoUnpacker-Windows-GUI/blob/master/innounp-2/bin/innounp-2.zip
-It will ask for a PASSWORD when extracting. This is a Technological Protection Measure implemented by the malware authors to limit access to their malware to real victims, and for legal reasons under section 1201 of the Digital Millenium Copyright act, I cannot say how to get this password. However, I HOPEFULLY can say that during the execution flow, it is passed as a cli parameter to another executable, so a sandbox might be your best friend
+
+It will ask for a PASSWORD when extracting. This is a Technological Protection Measure implemented by the malware authors to limit access to their malware to real victims, and for legal reasons 
+
+under section 1201 of the Digital Millenium Copyright act, I cannot say how to get this password. However, I HOPEFULLY can say that during the execution flow, it is passed as a cli parameter to another executable, so a sandbox might be your best friend
+
 Once you have the password and have extracted the innosetup, go to the "{app}" directory.
 # Step 2.
 Use pkg-unpacker to unpack the "updater.exe"
